@@ -305,6 +305,20 @@ body {
 
     .nav-item-link {
         margin-bottom: 0;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+    }
+
+    .content-title {
+        margin-top: 50px;
+    }
+
+    .content {
+        margin-top: -560px;
     }
 
 }
